@@ -26,7 +26,7 @@ FROM
 GROUP BY 
     player_id;
 
----
+```
 
 ## 💬 What I Learned
 - You can use 'MIN()' with date columns just like numbers.
