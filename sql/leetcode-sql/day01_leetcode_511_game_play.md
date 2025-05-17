@@ -29,6 +29,6 @@ GROUP BY
 ```
 
 ## 💬 What I Learned
-- You can use 'MIN()' with date columns just like numbers.
-- 'GROUP BY' with 'aggregate functions' is essential for summarizing grouped data.
-- `Renaming columns using 'AS' makes results clearer and readable.
+- You can use `MIN()` with date columns just like numbers.
+- `GROUP BY` with aggregate functions is essential for summarizing grouped data.
+- Renaming columns using `AS` makes results clearer and readable.
