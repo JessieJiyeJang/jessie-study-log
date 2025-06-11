@@ -12,6 +12,10 @@ Welcome! This repository documents my learning journey across data, UX, and mark
 - `ux/coursera-ux`: Weekly notes from the Coursera Google UX Design Certificate
 - `ux/figma-practice`: My personal UI/UX redesign and component building using Figma
 
+### 🐍 Python Programming
+- `python/course-notes`: Lecture notes and examples from Python courses
+- `python/leetcode-python`: My daily Python LeetCode solutions and explanations
+
 ---
 
 📌 Updated regularly.  
