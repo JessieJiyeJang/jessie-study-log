@@ -30,3 +30,4 @@ Return the result table ordered by score descending.
 ### 🛠️ Room for Improvement  
 - If additional player info were included, you could also partition the ranking by player group using `PARTITION BY`  
 - If a fixed limit (like top 3 ranks) was needed, you could wrap this in a CTE and apply a `WHERE` filter
+- 
